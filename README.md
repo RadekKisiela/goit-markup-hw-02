@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-https://radekkisiela.github.io/goit-markup-hw-01/
+# goit-markup-hw-02
+
+https://github.com/RadekKisiela/goit-markup-hw-02.git
