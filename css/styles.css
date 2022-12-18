@@ -16,3 +16,8 @@ title {
 .background {
   background-color: #2f303a;
 }
+.accent {
+  color: #2196f3;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+}
