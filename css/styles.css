@@ -7,8 +7,10 @@ title {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
 }
-.title1 {
-  font-family: 'Roboto', sans-serif;
+.title1 { 
+ 
+  font-family: 'Roboto', sans-serif; 
+  color: #ffffff
   font-weight: 900;
   background-color: #2f303a;
 }
