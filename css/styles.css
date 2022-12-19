@@ -50,12 +50,14 @@
   font-weight: 700;
   background-color: #2196f3;
   cursor: pointer;
+  outline: none;
 }
 .button2 {
   color: rgba(33, 33, 33, 1);
   font-weight: 500;
   background-color: rgba(245, 244, 250, 1);
   cursor: pointer;
+  outline: none;
 }
 .button2:hover {
   background-color: rgba(33, 150, 243, 1);
