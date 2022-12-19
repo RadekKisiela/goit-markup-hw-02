@@ -65,7 +65,7 @@
   background-color: rgba(33, 150, 243, 1);
 }
 .button2:focus {
-  color: rgba(33, 150, 243, 1);
+  background-color: rgba(33, 150, 243, 1);
 }
 .lorem {
   color: #212121;
