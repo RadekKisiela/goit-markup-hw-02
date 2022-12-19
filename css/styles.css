@@ -2,7 +2,7 @@
   font-weight: 500;
 }
 
-.title > body {
+.title {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
 }
@@ -29,9 +29,9 @@
   height: 648;
   top: 1449px;
 }
-.accent {
+.title3 {
   color: #2196f3;
-
+  font-family: 'Raleway', sans-serif;
   font-weight: 900;
 }
 .button1 {
