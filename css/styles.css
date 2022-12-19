@@ -94,3 +94,9 @@
   cursor: pointer;
   text-decoration: none;
 }
+.link2:hover {
+  color: rgba(33, 150, 243, 1);
+}
+.link2:focus {
+  color: rgba(33, 150, 243, 1);
+}
