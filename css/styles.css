@@ -53,7 +53,7 @@
   cursor: pointer;
 }
 .button2:hover {
-  color: rgba(33, 150, 243, 1);
+  background-color: rgba(33, 150, 243, 1);
 }
 .lorem {
   color: #212121;
