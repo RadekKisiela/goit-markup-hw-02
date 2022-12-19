@@ -46,11 +46,14 @@
   background-color: #2196f3;
   cursor: pointer;
 }
-.button2:hover1 {
+.button2 {
   color: rgba(33, 33, 33, 1);
   font-weight: 500;
   background-color: rgba(245, 244, 250, 1);
   cursor: pointer;
+}
+.button2:hover {
+  color: rgba(33, 150, 243, 1);
 }
 .lorem {
   color: #212121;
