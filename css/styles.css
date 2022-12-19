@@ -8,13 +8,11 @@
 }
 .title1 {
   color: #ffffff;
-
   font-weight: 900;
   background-color: #2f303a;
 }
 .title2 {
   color: #212121;
-
   font-weight: 700;
 }
 .background {
@@ -37,29 +35,24 @@
 }
 .button1 {
   color: #ffffff;
-
   font-weight: 700;
   background-color: #2196f3;
   cursor: pointer;
 }
 .lorem {
   color: #212121;
-
   font-weight: 700;
   text-transform: uppercase;
 }
 .lorem1 {
   color: #757575;
-
   font-weight: 400;
 }
 .names {
   color: #212121;
-  background-color: #ffffff;
   font-weight: 500;
 }
 .names2 {
   color: #757575;
-  background-color: #ffffff;
   font-weight: 400;
 }
