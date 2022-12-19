@@ -29,9 +29,7 @@
   height: 648;
   top: 1449px;
 }
-.background2 {
-  background-color: #ffffff;
-}
+
 .post-body1 {
   color: #2196f3;
   font-family: 'Raleway', sans-serif;
@@ -57,11 +55,11 @@
 }
 .names {
   color: #212121;
-
+  background-color: #ffffff;
   font-weight: 500;
 }
 .names2 {
   color: #757575;
-
+  background-color: #ffffff;
   font-weight: 400;
 }
