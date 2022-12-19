@@ -82,11 +82,10 @@
 .link {
   color: rgba(255, 255, 255, 0.6);
   cursor: pointer;
+  text-decoration: none;
 }
 .link2 {
   color: rgba(177, 177, 177, 1);
   cursor: pointer;
-}
-.hover {
-  color: rgba(33, 150, 243, 1);
+  text-decoration: none;
 }
