@@ -20,9 +20,15 @@ title {
 }
 .background {
   background-color: #2f303a;
+  width: 1600px;
+  height: 600px;
+  top: 80px;
 }
 .background1 {
   background-color: #f5f4fa;
+  width: 1600px;
+  height: 648;
+  top: 1449px;
 }
 .accent {
   color: #2196f3;
