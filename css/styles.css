@@ -114,7 +114,6 @@
 }
 .link {
   color: rgba(255, 255, 255, 0.6);
-  cursor: pointer;
   text-decoration: none;
   font-size: 14px;
   line-height: 1.17;
@@ -127,7 +126,6 @@
 }
 .link2 {
   color: rgba(177, 177, 177, 1);
-  cursor: pointer;
   text-decoration: none;
   font-size: 14px;
   line-height: 1.17;
