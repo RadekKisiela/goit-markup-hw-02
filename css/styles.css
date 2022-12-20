@@ -27,6 +27,9 @@
 .title2 {
   color: #212121;
   font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
 }
 .background {
   background-color: #2f303a;
@@ -79,18 +82,28 @@
   color: #212121;
   font-weight: 700;
   text-transform: uppercase;
+  font-size: 14px;
+  line-height: 1.17;
 }
 .lorem1 {
   color: #757575;
   font-weight: 400;
+  font-size: 14px;
+  line-height: 2;
 }
 .names {
   color: #212121;
   font-weight: 500;
+  font-size: 16px;
+  line-height: 1.33;
+  text-align: center;
 }
 .names2 {
   color: #757575;
   font-weight: 400;
+  font-size: 16px;
+  line-height: 1.33;
+  text-align: center;
 }
 .link {
   color: rgba(255, 255, 255, 0.6);
@@ -115,4 +128,10 @@
 }
 .link2:focus {
   color: rgba(33, 150, 243, 1);
+}
+.address {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 2;
 }
