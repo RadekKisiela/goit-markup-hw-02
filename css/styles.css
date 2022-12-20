@@ -2,6 +2,8 @@
   font-weight: 500;
   color: rgba(33, 33, 33, 1);
   text-decoration: none;
+  font-size: 14px;
+  line-height: 1.17;
 }
 .headline:hover {
   color: rgba(33, 150, 243, 1);
@@ -56,6 +58,9 @@
   background-color: #2196f3;
   cursor: pointer;
   outline: none;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.87;
 }
 .button2 {
   color: rgba(33, 33, 33, 1);
@@ -91,6 +96,8 @@
   color: rgba(255, 255, 255, 0.6);
   cursor: pointer;
   text-decoration: none;
+  font-size: 14px;
+  line-height: 1.17;
 }
 .link:hover {
   color: rgba(33, 150, 243, 1);
