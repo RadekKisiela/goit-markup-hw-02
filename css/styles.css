@@ -71,6 +71,9 @@
   background-color: rgba(245, 244, 250, 1);
   cursor: pointer;
   border: none;
+  font-size: 16px;
+  line-height: 1.62;
+  text-align: center;
 }
 .button2:hover {
   background-color: rgba(33, 150, 243, 1);
