@@ -19,6 +19,14 @@
   text-align: center;
   line-height: 1.17;
 }
+.post-body1 {
+  color: #2196f3;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
+  font-size: 26px;
+  text-align: center;
+  line-height: 1.17;
+}
 .title1 {
   color: #ffffff;
   font-weight: 900;
@@ -48,11 +56,6 @@
   font-style: normal;
 }
 
-.post-body1 {
-  color: #2196f3;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 900;
-}
 .button1 {
   color: #ffffff;
   font-weight: 700;
