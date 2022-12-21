@@ -39,21 +39,12 @@
 }
 .background {
   background-color: #2f303a;
-  width: 1600px;
-  height: 600px;
-  top: 80px;
 }
 .background1 {
   background-color: #f5f4fa;
-  width: 1600px;
-  height: 648;
-  top: 1449px;
 }
 .background2 {
   background-color: #2f303a;
-  width: 1600px;
-  height: 252;
-  top: 2097px;
 }
 
 .post-body1 {
@@ -66,7 +57,6 @@
   font-weight: 700;
   background-color: #2196f3;
   cursor: pointer;
-  outline: none;
   text-align: center;
   font-size: 16px;
   line-height: 1.87;
