@@ -13,6 +13,7 @@
   --background-color-quinary: rgba(245, 244, 250, 1);
 }
 .headline {
+  color: var(--text-color-primary);
   font-weight: 500;
   text-decoration: none;
   font-size: 14px;
@@ -20,7 +21,7 @@
 }
 .headline:hover,
 .headline:focus {
-  color: rgba(33, 150, 243, 1);
+  color: var(--text-color-tertiary);
 }
 .post-body {
   text-decoration: none;
