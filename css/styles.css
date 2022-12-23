@@ -19,6 +19,7 @@
   text-decoration: none;
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.02em;
 }
 .headline:hover,
 .headline:focus {
@@ -41,6 +42,7 @@
   font-size: 26px;
   text-align: center;
   line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 .post-body2 {
   color: var(--text-color-quaternary);
@@ -55,6 +57,7 @@
   color: var(--text-color-quaternary);
   font-weight: 900;
   background-color: var(--background-color-tertiary);
+  letter-spacing: 0.06em;
 }
 .title2 {
   color: var(--text-color-primary);
@@ -62,12 +65,14 @@
   font-size: 36px;
   line-height: 1.17;
   text-align: center;
+  letter-spacing: 0.03em;
 }
 .title3 {
   color: var(--background-color-primary);
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
+  letter-spacing: 0.03em;
 }
 .background {
   background-color: var(--background-color-primary);
@@ -92,6 +97,7 @@
   font-size: 16px;
   line-height: 1.87;
   outline: none;
+  letter-spacing: 0.06em;
 }
 .button2 {
   color: var(--text-color-primary);
@@ -102,6 +108,7 @@
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
+  letter-spacing: 0.03em;
 }
 .button2:hover,
 .button2:focus {
@@ -114,11 +121,13 @@
   text-transform: uppercase;
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 .lorem1 {
   color: var(--text-color-quinary);
   font-size: 14px;
   line-height: 2;
+  letter-spacing: 0.03em;
 }
 .names {
   color: var(--text-color-primary);
@@ -126,18 +135,21 @@
   font-size: 16px;
   line-height: 1.33;
   text-align: center;
+  letter-spacing: 0.03em;
 }
 .names2 {
   color: var(--text-color-quinary);
   font-size: 16px;
   line-height: 1.33;
   text-align: center;
+  letter-spacing: 0.03em;
 }
 .link {
   color: var(--text-color-senary);
   text-decoration: none;
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 .link:hover,
 link:focus {
@@ -149,6 +161,7 @@ link:focus {
   text-decoration: none;
   font-size: 14px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 .link2:hover,
 .link2:focus {
@@ -159,9 +172,11 @@ link:focus {
   font-size: 14px;
   line-height: 2;
   font-style: normal;
+  letter-spacing: 0.03em;
 }
 .paragraph {
   color: var(--text-color-quinary);
   font-size: 16px;
   line-height: 1.87;
+  letter-spacing: 0.03em;
 }
