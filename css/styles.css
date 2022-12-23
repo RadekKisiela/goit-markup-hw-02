@@ -104,6 +104,7 @@
 }
 .button2:hover,
 .button2:focus {
+  color: var(--text-color-quaternary);
   background-color: var(--background-color-quaternary);
 }
 .lorem {
