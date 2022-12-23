@@ -70,7 +70,7 @@
   line-height: 2;
 }
 .background {
-  background-color: var(--background-color-tertiary);
+  background-color: var(--background-color-primary);
 }
 .background1 {
   background-color: var(--background-color-quinary);
